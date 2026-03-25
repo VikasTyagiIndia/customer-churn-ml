@@ -19,6 +19,8 @@
 
 ![Churn App Screenshot](assets/app_screenshot.jpg)
 
+![Low Churn Result](assets/low_churn.png)
+
 ---
 
 ## 📌 Problem Statement
