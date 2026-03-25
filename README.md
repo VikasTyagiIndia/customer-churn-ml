@@ -1,4 +1,11 @@
 # Customer Churn ML Project
+---
+
+**Developed by:** Mr. Vikas Tyagi
+**Course:** M.Sc Data Science
+**University:** Amity University Rajasthan
+
+---
 
 ## 📌 Problem Statement
 Predict whether a customer will churn based on their usage and subscription details.
