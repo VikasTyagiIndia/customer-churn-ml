@@ -15,6 +15,12 @@
 
 ---
 
+## 📸 App Preview
+
+![Churn App Screenshot](assets/app_screenshot.png)
+
+---
+
 ## 📌 Problem Statement
 Predict whether a customer will churn based on their usage and subscription details.
 
