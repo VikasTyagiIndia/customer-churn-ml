@@ -17,7 +17,7 @@
 
 ## 📸 App Preview
 
-![Churn App Screenshot](assets/app_screenshot.png)
+![Churn App Screenshot](assets/app_screenshot.jpg)
 
 ---
 
