@@ -9,6 +9,12 @@
 
 ---
 
+## Live Demo
+
+[Customer Churn App (Deployed)](https://customer-churn-ml-spgrbzztsvzhkos7fdncuv.streamlit.app/)
+
+---
+
 ## 📌 Problem Statement
 Predict whether a customer will churn based on their usage and subscription details.
 
