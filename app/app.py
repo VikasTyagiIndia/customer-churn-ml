@@ -115,7 +115,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.subheader("📥 Input Summary")
-    st.dataframe(input_df)
+    st.dataframe(input_df, use_container_width=True)
 
 if st.button("🚀 Predict Churn"):
 
