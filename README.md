@@ -44,3 +44,6 @@ git clone <repo>
 cd customer-churn-ml
 pip install -r requirements.txt
 python main.py
+
+streamlit run app/app.py
+```
