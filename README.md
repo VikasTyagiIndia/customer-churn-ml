@@ -2,7 +2,9 @@
 ---
 
 **Developed by:** Mr. Vikas Tyagi
+
 **Course:** M.Sc Data Science
+
 **University:** Amity University Rajasthan
 
 ---
