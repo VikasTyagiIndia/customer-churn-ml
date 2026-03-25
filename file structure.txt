@@ -1,0 +1,24 @@
+customer-churn-ml/
+│
+├── data/
+│   ├── raw/                  # Original dataset
+│   ├── processed/            # Cleaned dataset
+│
+├── notebooks/
+│   └── churn_eda.ipynb       # EDA + exploration
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── train_model.py
+│   ├── evaluate_model.py
+│
+├── models/
+│   └── churn_model.pkl
+│
+├── app/
+│   └── app.py                # (Optional: Streamlit/FastAPI)
+│
+├── requirements.txt
+├── README.md
+└── main.py                   # Runs full pipeline
